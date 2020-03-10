@@ -1,4 +1,4 @@
-defmodule Mix.Tasks.Post do
+defmodule Mix.Tasks.Scrum do
   use Mix.Task
 
   @shortdoc "mix post [-t] [-d yyyy-mm-dd]"
