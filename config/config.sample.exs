@@ -14,3 +14,7 @@ config :scrummer, slack: %{
     :channel => "",
     :token => "",
 }
+
+config :toiler, trello_lists: [
+    "5c8e35966ae25a5e7c836f37", #EBANX Plantão list done
+]

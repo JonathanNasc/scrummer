@@ -23,3 +23,6 @@ erl_crash.dump
 scrummer-*.tar
 
 config/config.exs
+
+# Ignore IDEs and Editors config files
+.elixir_ls/*
